@@ -7,5 +7,9 @@
 
 #one {
     color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.cooler-id {
     font-size: 24px;
 }
