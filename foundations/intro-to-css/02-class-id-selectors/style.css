@@ -13,3 +13,9 @@
 .cooler-id {
     font-size: 24px;
 }
+
+#another-one {
+    background-color: hsl(120, 100%, 75%);
+    font-size: 24px;
+    font-weight: 700;
+}
