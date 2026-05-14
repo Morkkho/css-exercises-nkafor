@@ -24,7 +24,7 @@ body {
   display: flex;
   background: lightgray;
   justify-content: center;
-  padding-top: 25px;
+  align-items: center;
 }
 
 .sidebar {
